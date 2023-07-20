@@ -1,2 +1,2 @@
 # liao-yubo-website-new
-A website repository for Liaoyubo.
+A website repository for Liao Yubo.
